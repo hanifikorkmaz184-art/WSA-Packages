@@ -1,2 +1,3 @@
 # WSA-Packages
-WSA Packages
+WSA PAKETLERİ ARŞİVİDİR
+BU ARŞİV GÜNCELLENİYOR.
