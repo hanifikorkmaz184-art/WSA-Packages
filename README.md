@@ -1,2 +1,3 @@
 # WSA-Packages
-WSA PAKETLERİ ARŞİVİDİR
+** WSA PAKETLERİ ARŞİVİDİR **
+** Windows 11 içindir **
